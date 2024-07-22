@@ -8,6 +8,7 @@
 ## OVERVIEW OF THE PROJECT
 
 ### Project: "TEMPERATURE CONVERTER" 
+![Screenshot 2024-07-22 154212](https://github.com/user-attachments/assets/c0d30d3f-0981-4014-8c5f-d7a8d16660fa)
 
 
 
